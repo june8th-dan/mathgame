@@ -1,0 +1,8 @@
+LUẬT CHƠI
+============
+- Bắt đầu trò chơi bạn sẽ có 3 mạng.
+- Trong trò chơi bạn cần thực hiện phép tính xuất hiện trên màn hình và nhập kết quả vào chương trình.
+- Nếu trả lời đúng bạn sẽ được +1 điểm.
+- Nếu trả lời sai bạn sẽ bị -1 điểm và mất 1 mạng.
+- Bạn sẽ giành chiến thắng ngay khi bạn đạt đủ 15 điểm.
+- Bạn sẽ thua khi số mạng còn lại của bạn bằng 0.
